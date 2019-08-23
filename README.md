@@ -1,2 +1,2 @@
 # GSoC
-Software button debouncing project with [apertus° Association](https://www.apertus.org/)
+Software button debouncing project with [apertus°](https://www.apertus.org/) Association
