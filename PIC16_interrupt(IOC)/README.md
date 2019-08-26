@@ -1,6 +1,6 @@
 # PIC16_interrupt(IOC)
 
-Code for PIC16 (KME), on AXIOM Remote, to execute a blink on S2A LED via interrupt of change (IOC) on the button x.
+Code for PIC16 (KME), on AXIOM Remote, to execute a blink on S2A LED via interrupt of change (IOC) on the button P1.
 
 ## Programmed on terminal by:
 ```
